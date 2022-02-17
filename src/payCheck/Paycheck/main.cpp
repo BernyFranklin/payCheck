@@ -1,6 +1,7 @@
 /*
     C++ PaycheckV1.0.c : Defines the entry point for the console application
     Frank Bernal
+    03FEB2022
     CIS054 C/C++ Programming
     Inputs: hours, payRate
     Outputs: grossPay, taxes, netPay
